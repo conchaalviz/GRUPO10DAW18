@@ -1,2 +1,0 @@
-Paso 1. Creación del directorio app, para contener los archivos de la parte cliente.
-
