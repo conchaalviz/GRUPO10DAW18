@@ -3,12 +3,8 @@
 //Inclusión de datos de conexion
 include("../app/Config.php");
 
-echo $mvc_bd_usuario;
-echo Config::$mvc_bd_usuario;
-
-/*
 //Crea conexion (variables usadas vienen de Config.php)
-$conexion = new mysqli($mvc_bd_hostname, $mvc_bd_usuario, $mvc_bd_clave, $mvc_bd_nombre);
+$conexion = new mysqli(Config::$mvc_bd_hostname, Config::$mvc_bd_usuario, Config::$mvc_bd_clave, Config::$mvc_bd_nombre);
 
 //Comprueba si la conexión es correcta.
 if($conexion -> connect_errno){
@@ -38,5 +34,5 @@ if($resultado -> errno){
 }
 
 mysqli_close($conexion);
-*/
+
 ?>
