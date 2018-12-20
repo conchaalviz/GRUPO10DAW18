@@ -11,9 +11,9 @@
        if (!$mvc_bd_conexion) {
            die('No ha sido posible realizar la conexión con la base de datos: ' . mysqli_error());
        }
-       mysqli_select_db($dbname, $mvc_bd_conexion);
+       mysqli_select_db($mvc_bd_conexion, $dbname);
 
-       mysqli_set_charset('utf8');
+       mysqli_set_charset($mvc_bd_conexion, 'utf8');
 
        $this->conexion = $mvc_bd_conexion;
      }
@@ -29,7 +29,7 @@
      {
          $sql = "select * from alimentos order by energia desc";
 
-         $result = mysqli_query($sql, $this->conexion);
+         $result = mysqli_query($conexion, $sql);
 
          $alimentos = array();
          while ($row = mysqli_fetch_assoc($result))
