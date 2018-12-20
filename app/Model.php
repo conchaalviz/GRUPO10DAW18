@@ -30,7 +30,7 @@
      {
          $sql = "select * from alimentos order by energia desc";
 
-         $result = mysqli_query($conexion, $sql);
+         $result = $conexion->query($sql);
 
          $alimentos = array();
          while ($row = mysqli_fetch_assoc($result))
