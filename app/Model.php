@@ -28,6 +28,7 @@
 
      public function dameAlimentos()
      {
+       $conexion = $this->conexion;
          $sql = "select * from alimentos order by energia desc";
 
          $result = $conexion->query($sql);
