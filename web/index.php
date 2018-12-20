@@ -2,7 +2,7 @@
  // web/index.php
 
  // carga del modelo y los controladores
- require_once __DIR__ . '../app/Config.php';
+ require_once __DIR__ . '../app/Config.php'; 
  require_once __DIR__ . '../app/Model.php';
  require_once __DIR__ . '../app/Controller.php';
 
