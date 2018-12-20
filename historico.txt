@@ -39,4 +39,7 @@ Integrante3: MANUEL Y LORENZO ---> Tareas:
 	- Manuel: Corregido install.php
 	- Manuel: Prueba de conexión, por acceso denegado a base de datos.
 	- Vero: subida archivo historico.txt
+	- Concha: Modificadas rutas de carga de modelo y controlador en vista
+	- Concha: cambios en un modelo y controlador desde vista.
+	
 
