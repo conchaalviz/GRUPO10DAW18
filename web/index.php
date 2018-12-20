@@ -1,6 +1,6 @@
 <?php
  // web/index.php
-
+ echo __DIR__ . '/../app/Config.php';
  // carga del modelo y los controladores
  require_once __DIR__ . '/../app/Config.php';
  require_once __DIR__ . '/../app/Model.php';
