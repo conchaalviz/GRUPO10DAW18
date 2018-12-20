@@ -1,0 +1,42 @@
+HISTORICO
+
+INTEGRANTES DEL GRUPO: TAREAS
+
+Integrante1: CONCHA ---> Tareas:
+	-Administración del repositorio Github.
+	-Creación del Proyecto. Gestión del fichero inicio.txt 
+	-Asociación de los usuarios.
+	-Subida de los archivos de la Vista.
+	-Recogida de valoraciones de la experiencia de los integrantes. Gestión del archivo valoraciones.txt
+
+Integrante2: VERO ---> Tareas:
+	-Subida de archivos del Controlador, archivos de Configuración.
+	-Gestión de cambios en el archivo historico.txt
+	-Inserción del enlace final al proyecto (CDMON)
+	
+Integrante3: MANUEL Y LORENZO ---> Tareas:
+	-Subida de archivos del Modelo.
+	-Creación y agregado de los Scripts de Instalación.
+	-Paso a Producción y cambios en el hosting y el código para la conexión con la base de datos.
+	-Subida del proyecto en CDMON.
+	-Subida de las indicaciones para la instalación del proyecto en cualquier ubicación y los scripts de la base de datos
+		(instalacion.sql ó instalacion.php)
+
+
+19 de Diciembre:
+	- Concha: Creación del proyecto
+	- Manuel: Creación del directorio parte del modelo
+	- Concha: Subida parte de la vista
+	- Concha: Subida parte de la vista de carpeta privada app / templates
+	- Manuel: Insertados archivos modelo (Config.php, Model.php)
+	- Vero: subo parte del controlador
+	- Vero: modificacion de datos de acceso a la base de datos
+	- Manuel: Subido archivo installDB.php (Estado: BORRADOR)
+
+20 de Diciembre:	
+	- Manuel: Configurado fichero Config.php con datos de conexion a base de datos.
+	- Manuel: Configurado archivo install.php
+	- Manuel: Corregido install.php
+	- Manuel: Prueba de conexión, por acceso denegado a base de datos.
+	- Vero: subida archivo historico.txt
+
