@@ -6,6 +6,7 @@
 
      public function __construct($dbname,$dbuser,$dbpass,$dbhost)
      {
+       echo $dbname;
        $mvc_bd_conexion = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
 
        if (!$mvc_bd_conexion) {
