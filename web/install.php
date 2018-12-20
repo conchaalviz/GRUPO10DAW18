@@ -1,7 +1,7 @@
 <?php
 
 //Inclusión de datos de conexion
-include("Config.php");
+include("../app/Config.php");
 
 //Crea conexion (variables usadas vienen de Config.php)
 $conexion = new mysqli($mvc_bd_hostname, $mvc_bd_usuario, $mvc_bd_clave, $mvc_bd_nombre);
