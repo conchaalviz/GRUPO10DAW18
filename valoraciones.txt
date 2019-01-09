@@ -1,0 +1,17 @@
+Estas fueron las valoraciones de los integrantes del grupo:
+
+- conchaalviz: Trabajar con un sistema de control de versiones como git,
+está bien para trabajar en grupo, aunque no creo que la interfaz de trabajo
+sea la más usable (por lo menos en Linux)
+
+- manuel-espino: Valoro muy positivamente esta actividad ya que, de forma 
+práctica, he obtenido una visión general sobre qué es el control de 
+versiones y las acciones básicas para llevarlo a cabo. De forma 
+complementaria, he comprendido como es posible la separación 
+de roles en el desarrollo de una aplicación web y su paso a producción.
+
+- VeroRumba: Es un sistema muy interesante porque es cómodo para trabajar
+en grupo y que, además, permite que no se pierda información. Esto último me
+parece muy interesante.
+
+- bellor:
