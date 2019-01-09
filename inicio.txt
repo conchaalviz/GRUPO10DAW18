@@ -1,0 +1,11 @@
+Para comenzar, cada uno de los integrantes del grupo, tuvo que crear una
+cuenta en github. Uno de ellos, en concreto el usuario conchaalviz, se
+encargó de crear el repositorio (GRUPO10DAW18), público y accesible, y de
+asociar a los otros participantes (mediante el nombre de usuario de cada
+uno de ellos en GitHub).
+
+Cada uno de ellos adquirió un rol, en función del paradigma MVC.
+
+Modelo ---> manuel-espino, bellor
+Vista ---> conchaalviz
+Controlador ---> VeroRumba 
