@@ -1,0 +1,4 @@
+Por una parte empece con entrar en el hosting de Veronica con SSH.
+Una vez conseguido fui a la carpeta web.
+Una vez en web clone los repositorios con git clone.
+Una vez clonado ejecute el install php.
